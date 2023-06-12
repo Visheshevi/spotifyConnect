@@ -15,6 +15,6 @@ There are three files to get your job done:
 3. spotify_start_on_device.py
 
 
-The *spotify_api_connect.py* is used to get an authorization code, that would be used to authorize against your spotify user profile. This project would be updated to avoid getting an authorization code every hour. 
+The **spotify_api_connect.py** is used to get an authorization code, that would be used to authorize against your spotify user profile. This project would be updated to avoid getting an authorization code every hour. 
 
-The *spotify_get_device_ids.py* is used to get the list of all the devices your spotify is connected to. Grab the device ID you want to run spotify on and paste it in the *spotify_start_on_device.py*. Run this file an listen to the last song being played on your spotify 
+The **spotify_get_device_ids.py** is used to get the list of all the devices your spotify is connected to. Grab the device ID you want to run spotify on and paste it in the **spotify_start_on_device.py**. Run this file an listen to the last song being played on your spotify 
